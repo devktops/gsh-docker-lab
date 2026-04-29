@@ -8,7 +8,7 @@ A hands-on Docker fundamentals lab that runs entirely in the browser via
 Open [Google Cloud Shell](https://shell.cloud.google.com) and run:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/devktops/gsh-docker-lab/main/setup/run.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/devktops/gsh-docker-lab/master/run.sh)
 ```
 
 When the banner says **"Lab environment is ready!"**:
