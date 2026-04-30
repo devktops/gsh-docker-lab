@@ -1,6 +1,6 @@
 # DevKTOps Docker Lab
 
-![DevKTOps Docker Lab](banner.png)
+<img src="https://raw.githubusercontent.com/devktops/gsh-docker-lab/master/banner.png" width="100%" alt="DevKTOps Docker Lab">
 
 Welcome to the **Docker Fundamentals Lab** by DevKTOps! 🐳
 
