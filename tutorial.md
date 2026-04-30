@@ -64,9 +64,11 @@ A new browser tab will open with the lab dashboard.
 
 ## Enter your access token
 
-On the login screen, paste the **access token** provided by your instructor and click **Enter Lab**.
+On the login screen, paste the access token below and click **Enter Lab**:
 
-> If you don't have a token, ask your instructor — the lab dashboard won't open without it.
+```
+devktopsdockerlab-2026
+```
 
 ---
 
