@@ -7,7 +7,7 @@ A hands-on Docker fundamentals lab that runs entirely in the browser via
 
 Click the button below — Cloud Shell will clone the repo and open the step-by-step tutorial automatically:
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/devktops/gsh-docker-lab.git&cloudshell_tutorial=tutorial.md&shellonly=true)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/devktops/gsh-docker-lab.git&cloudshell_tutorial=tutorial.md)
 
 Or run directly from Cloud Shell without the tutorial:
 
