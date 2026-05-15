@@ -67,7 +67,7 @@ A new browser tab will open with the lab dashboard.
 On the login screen, paste the access token below and click **Enter Lab**:
 
 ```
-devktopsdockerlab-2026
+devktops-docker-2026
 ```
 
 ---
